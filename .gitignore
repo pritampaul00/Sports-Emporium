@@ -1,0 +1,50 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+backend/.env
+frontend/.env
+.env
+
+# Dependency directories
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# Build output
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# Cache
+.cache/
+.vscode/
+*.tsbuildinfo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+*.swp
+
+# Coverage
+coverage/
+*.lcov
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
