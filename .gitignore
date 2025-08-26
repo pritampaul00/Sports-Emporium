@@ -25,6 +25,8 @@ frontend/dist/
 frontend/build/
 backend/dist/
 backend/build/
+backend/config/serviceAccountKey.json
+
 
 # Cache
 .cache/
