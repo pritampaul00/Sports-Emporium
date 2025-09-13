@@ -1,8 +1,4 @@
-Here’s a well-structured **README.md** for your **Sports Emporium** project (based on your MERN stack + e-commerce features like categories, products, cart, checkout, memberships, and Razorpay integration):
-
----
-
-# 🏏 Sports Emporium - E-Commerce Sports Store
+# Sports Emporium - E-Commerce Sports Store
 
 ## 📌 Description
 
@@ -146,6 +142,5 @@ Sports-Emporium/
 
 E-Commerce, Sports Store, MERN Stack, Razorpay, MongoDB, React, Express.js, Node.js, JWT Authentication, Redux, Firebase Auth, Tailwind CSS.
 
----
 
-Do you want me to also **add screenshots + demo GIF placeholders** in the README so it looks more professional for GitHub?
+
